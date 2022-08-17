@@ -6,4 +6,4 @@ Event Handler :
 - Action Performed
 
 --
-Plus showing time and date.
+Showing time and date.
